@@ -17,14 +17,15 @@ Full Stack Web Development program. My aim is to develop my programming skills -
 ### Day 1: January 3, 2018
 
 
-**Today's Progress**: Initial Commit.
+**Today's Progress**: Initial Commit. Completed last 5 ES6 lessons on FCC.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Was able to review how to import and export functions and variables
+using ES6 syntax. Learned how to create and import an export fallback with EXPORT DEFAULT.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Free Code Camp](https://learn.freecodecamp.org/)
 
 
-### Day 1: 
+### Day 2: 
 
 **Today's Progress**:
 
