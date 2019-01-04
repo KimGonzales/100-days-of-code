@@ -35,9 +35,9 @@ using ES6 syntax. Learned how to create and import an export fallback with EXPOR
 
 ### Day 2: 
 
-**Today's Progress**: Started Lecture 1 and Lecture 2 of 'Mastering the Coding Interview' course on Udemy. Set up discord account. 
+**Today's Progress**: Started Lecture 1 and Lecture 2 of 'Mastering the Coding Interview' course on Udemy. Set up discord account. Work on Rails Association Learn Lab.
 
-**Thoughts** Looking forward to reviewing data structures and learning about recursion. 
+**Thoughts** Looking forward to reviewing data structures and learning about recursion. Will need to review Rails association implementation. 
 
 **Link(s) to work**
 
