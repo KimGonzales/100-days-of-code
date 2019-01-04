@@ -33,11 +33,11 @@ using ES6 syntax. Learned how to create and import an export fallback with EXPOR
 
 **Link(s) to work**
 
-### Day x: 
+### Day 2: 
 
-**Today's Progress**:
+**Today's Progress**: Started Lecture 1 and Lecture 2 of 'Mastering the Coding Interview' course on Udemy. Set up discord account. 
 
-**Thoughts** 
+**Thoughts** Looking forward to reviewing data structures and learning about recursion. 
 
 **Link(s) to work**
 
