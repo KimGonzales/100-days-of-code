@@ -24,18 +24,9 @@ using ES6 syntax. Learned how to create and import an export fallback with EXPOR
 
 **Link(s) to work**: [Free Code Camp](https://learn.freecodecamp.org/)
 
-
 ### Day 2: 
 
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**
-
-### Day 2: 
-
-**Today's Progress**: Started Lecture 1 and Lecture 2 of 'Mastering the Coding Interview' course on Udemy. Set up discord account. Work on Rails Association Learn Lab.
+**Today's Progress**: Started Lecture 1 and Lecture 2 of 'Mastering the Coding Interview' course on Udemy. Set up discord account. Work on Rails Association Learn Lab. Worked on Modern Aspiration project. Changed background header. Still need to figure out how to make background image responsive. 
 
 **Thoughts** Looking forward to reviewing data structures and learning about recursion. Will need to review Rails association implementation. 
 
