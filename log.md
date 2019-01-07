@@ -33,10 +33,10 @@ using ES6 syntax. Learned how to create and import an export fallback with EXPOR
 **Link(s) to work**
 
 
-### Day x: 
+### Day 3: 
 
-**Today's Progress**:
+**Today's Progress**: Started Computer Science track on Learn.co. Read about The Big O, Time Complexity and Recursion.
 
-**Thoughts** 
+**Thoughts**: will need to study more about time complexity
 
-**Link(s) to work**
+**Link(s) to work**: https://learn.co/tracks/computer-science
