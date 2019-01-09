@@ -55,3 +55,11 @@ using ES6 syntax. Learned how to create and import an export fallback with EXPOR
 **Thoughts**: Would like to change link aethetic to goals route and possibly work on edit objective button. 
 
 **Link(s) to work**: https://modern-aspiration.heroku.com
+
+### Day 5: January 8, 2019
+
+**Today's Progress**: Played Ruby Warrior levels 1-3 to review ruby basics. 
+
+**Thoughts**: Forgot I could nest if statements and also ruby constants are capitalized. Constants do not exist until a value is actually assigned to them. 
+
+**Link(s) to work**: rubywarrior.com 
